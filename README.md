@@ -1,1 +1,1 @@
-# desafio=stone
+# desafio-stone

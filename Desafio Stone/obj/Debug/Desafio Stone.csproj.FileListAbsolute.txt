@@ -1,0 +1,6 @@
+c:\users\yanal\documents\visual studio 2015\Projects\Desafio Stone\Desafio Stone\bin\Debug\Desafio Stone.exe.config
+c:\users\yanal\documents\visual studio 2015\Projects\Desafio Stone\Desafio Stone\bin\Debug\Desafio Stone.exe
+c:\users\yanal\documents\visual studio 2015\Projects\Desafio Stone\Desafio Stone\bin\Debug\Desafio Stone.pdb
+c:\users\yanal\documents\visual studio 2015\Projects\Desafio Stone\Desafio Stone\obj\Debug\Desafio Stone.csprojResolveAssemblyReference.cache
+c:\users\yanal\documents\visual studio 2015\Projects\Desafio Stone\Desafio Stone\obj\Debug\Desafio Stone.exe
+c:\users\yanal\documents\visual studio 2015\Projects\Desafio Stone\Desafio Stone\obj\Debug\Desafio Stone.pdb
